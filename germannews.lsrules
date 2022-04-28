@@ -1,0 +1,5 @@
+{
+    "name": "German News Block List",
+    "description": "Blocks access to us news media sites.",
+    "denied-remote-domains": ["bild.de","welt.de","tradingeconomics.com","wallstreet-online.de","weforum.org","spiegel.de","zeit.de","focus.de","sz.de","faz.de","derwesten.de","finanzen.net","chip.de","handelsblatt.com","kicker.de","heise.de","ntv.de","tagesschau.de","morgenpost.de","tag24.de","msn.com","stern.de","express.de","rp-online.de","mopo.de","abendblatt.de","tz.de","az.de","zdf.de","ard.de","rtl.de","nzz.ch","wdr.de","taz.de","ndr.de","mdr.de","swr.de","sport1.de","sportschau.de","flashscore.de","eurosport.de","eurosport.com","sport1.fm","formel1.de","formula1.com","sportal.de","transfermarkt.de","ligainsider.de","kadaza.de"]
+}
