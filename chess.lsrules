@@ -1,5 +1,5 @@
 {
     "name": "Chess Block List",
     "description": "Blocks access to popular social media sites.",
-    "denied-remote-domains": ["lichess.org", "chess.com", "chess24.com","chessbase.com"]
+    "denied-remote-domains": ["lichess.org", "chess.com", "chess24.com","chessbase.com","https://www.chess.com"]
 }
