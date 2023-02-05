@@ -1,5 +1,5 @@
 {
     "name": "Social Media Block List",
     "description": "Blocks access to popular social media, news and porn sites.",
-    "denied-remote-domains": ["facebook.com", "twitter.com", "youtube.com","reddit.com","instagram.com","tiktok.com","amazon.com","amazon.de","cointelegraph.com","coindesk.com"]
+    "denied-remote-domains": ["facebook.com", "twitter.com","reddit.com","instagram.com","tiktok.com","amazon.com","amazon.de","cointelegraph.com","coindesk.com"]
 }
