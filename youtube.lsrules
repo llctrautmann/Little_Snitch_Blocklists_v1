@@ -1,1 +1,5 @@
-"youtube.com"
+{
+    "name": "News Block List",
+    "description": "Blocks access to us news media sites.",
+    "denied-remote-domains": ["youtube.com"]
+    }
