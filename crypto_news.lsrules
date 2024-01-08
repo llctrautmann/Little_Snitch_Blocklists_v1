@@ -1,0 +1,30 @@
+{
+    "name": "Crypto News Block List",
+    "description": "Blocks access to cryptocurrency news websites.",
+    "denied-remote-domains": [
+        "cointelegraph.com",
+        "coindesk.com",
+        "newsbtc.com",
+        "bitcoin.com",
+        "u.today",
+        "coinfeeds.io",
+        "cryptoslate.com",
+        "bitcoinmagazine.com",
+        "99bitcoins.com",
+        "coinpedia.org",
+        "cryptomufasa.com",
+        "digitalexchangexpress.com",
+        "dailycoinpost.com",
+        "blockzeit.com",
+        "coingecko.com",
+        "althalla.com",
+        "bitcoinsinireland.com",
+        "coingeek.com",
+        "kryptomoney.com",
+        "en.ethereumworldnews.com",
+        "cryptoknowmics.com",
+        "investorbites.com",
+        "themorningcrypto.com",
+        "blockworks.co"
+    ]
+}
