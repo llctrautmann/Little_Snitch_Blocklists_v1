@@ -24,7 +24,7 @@ This repository is licensed under the MIT License. See the LICENSE file for more
 
 📧 **Contact:**
 
-For any questions or inquiries, please contact us at [email@example.com](mailto:email@example.com).
+For any questions or inquiries, please contact us at [llctrautmann@icloud.com](mailto:llctrautmann@icloud.com) or use pull requests.
 
 🙏 **Acknowledgments:**
 
