@@ -1,5 +1,0 @@
-{
-    "name": "Ground News",
-    "description": "Blocks access to ground.news.",
-    "denied-remote-domains": ["ground.news"]
-    }
