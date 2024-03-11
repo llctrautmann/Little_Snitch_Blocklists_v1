@@ -1,6 +1,6 @@
 {
     "name": "German News Block List",
-    "description": "Blocks access to US news media sites.",
+    "description": "Blocks access to German news media sites.",
     "denied-remote-domains": [
         "bild.de",
         "welt.de",
