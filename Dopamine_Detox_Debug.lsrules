@@ -1,0 +1,5 @@
+{
+    "name": "Dopamine Detox",
+    "description": "Blocks access to popular social media sites.",
+    "denied-remote-domains": ["facebook.com", "twitter.com", "youtube.com", "reddit.com"]
+}
