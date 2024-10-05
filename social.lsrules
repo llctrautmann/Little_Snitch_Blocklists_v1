@@ -1,1 +1,11 @@
-
+{
+    "name": "mindless",
+    "description": "block access to websites that qua definition do not hold value on a relative basis to their costs. Avoid at all costs.",
+    "denied-remote-domains": [
+      "facebook.com",
+      "twitter.com",
+      "instagram.com",
+      "tiktok.com",
+      "9gag.com",
+      "youtube.com",
+}
