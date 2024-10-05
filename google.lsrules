@@ -1,5 +1,5 @@
 {
-    "name": "Google",
+    "name": "google",
     "description": "Blocks access to google services",
     "denied-remote-domains": [
         "google.com",
