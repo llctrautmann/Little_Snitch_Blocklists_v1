@@ -1,5 +1,0 @@
-{
-    "name": "Social Media Block List",
-    "description": "Blocks access to popular social media, news and porn sites.",
-    "denied-remote-domains": ["facebook.com", "twitter.com","instagram.com","tiktok.com","amazon.com","amazon.de","amazon.co.uk","9gag.com","reddit.com","youtube.com","google.com","googleapis.com","googlevideo.com"]
-}

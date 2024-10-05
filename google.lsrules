@@ -1,0 +1,8 @@
+{
+    "name": "Google",
+    "description": "Blocks access to google services",
+    "denied-remote-domains": [
+        "google.com",
+        "googleapis.com",
+        "googlevideo.com"]
+}
