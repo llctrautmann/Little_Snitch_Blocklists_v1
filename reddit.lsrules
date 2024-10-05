@@ -1,0 +1,6 @@
+{
+    "name": "reddit",
+    "description": "Blocks access to reddit",
+    "denied-remote-domains": ["reddit.com"]
+}
+
