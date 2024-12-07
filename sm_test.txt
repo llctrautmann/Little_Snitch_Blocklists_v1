@@ -1,0 +1,12 @@
+# Blocklist for Little Snitch - Social Media (YouTube, Reddit)
+
+youtube.com, www.youtube.com, m.youtube.com
+youtu.be
+i.ytimg.com, s.ytimg.com
+youtube-nocookie.com
+
+# Reddit domains
+reddit.com
+www.reddit.com, old.reddit.com
+amp.reddit.com
+i.redd.it, v.redd.it
